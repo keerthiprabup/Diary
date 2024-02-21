@@ -19,4 +19,4 @@ If you don't have Java installed on your system, you can follow these steps to i
 After cloning the repository, you can compile and run the application using the following commands:
 
 ```bash
-java -cp .:mysql-connector-j-8.2.0.jar Main
+java -jar App.jar
